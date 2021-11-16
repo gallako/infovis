@@ -1,1 +1,37 @@
+exploratory data analysis
+color
+stem-and-leaf plot
+length encoding
+icicle
 small multiples
+exploratory data analysis
+visualizations is exploratory data analysis
+histograms
+median
+box-and-whisker plots
+data density
+compare two probability distribu
+Enclosure diagrams
+one-dimensional
+size
+adjacency matrix
+stream graphs
+quartile 
+Horizon graphs
+how a set of numbers are distributed
+increasing the data density
+extreme outliers
+stacked graph
+efficient interactive exploration
+mean
+cluster
+rapid scanning
+seriation
+partition
+drill-down
+frequency distribution
+Adjacency diagrams
+treemap 
+quantile-quantile
+shape
+sunburst
